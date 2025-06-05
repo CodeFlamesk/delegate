@@ -1,0 +1,14 @@
+D:\prog\c# training\TaskServise\User.Domain\bin\Debug\net9.0\User.Domain.exe
+D:\prog\c# training\TaskServise\User.Domain\bin\Debug\net9.0\User.Domain.deps.json
+D:\prog\c# training\TaskServise\User.Domain\bin\Debug\net9.0\User.Domain.runtimeconfig.json
+D:\prog\c# training\TaskServise\User.Domain\bin\Debug\net9.0\User.Domain.dll
+D:\prog\c# training\TaskServise\User.Domain\bin\Debug\net9.0\User.Domain.pdb
+D:\prog\c# training\TaskServise\User.Domain\obj\Debug\net9.0\User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\c# training\TaskServise\User.Domain\obj\Debug\net9.0\User.Domain.AssemblyInfoInputs.cache
+D:\prog\c# training\TaskServise\User.Domain\obj\Debug\net9.0\User.Domain.AssemblyInfo.cs
+D:\prog\c# training\TaskServise\User.Domain\obj\Debug\net9.0\User.Domain.csproj.CoreCompileInputs.cache
+D:\prog\c# training\TaskServise\User.Domain\obj\Debug\net9.0\User.Domain.dll
+D:\prog\c# training\TaskServise\User.Domain\obj\Debug\net9.0\refint\User.Domain.dll
+D:\prog\c# training\TaskServise\User.Domain\obj\Debug\net9.0\User.Domain.pdb
+D:\prog\c# training\TaskServise\User.Domain\obj\Debug\net9.0\User.Domain.genruntimeconfig.cache
+D:\prog\c# training\TaskServise\User.Domain\obj\Debug\net9.0\ref\User.Domain.dll

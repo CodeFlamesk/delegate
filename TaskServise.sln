@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4432AF92-3A99-43CD-B30A-FA69E55396E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaUserEngine", "LambdaUserEngine\LambdaUserEngine.csproj", "{AD30ECC9-7D0F-4898-B5EB-2369CCFD8407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User.Domain", "User.Domain\User.Domain.csproj", "{5061DF5E-D1E7-40A3-B78B-8AE7E08E5A73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD30ECC9-7D0F-4898-B5EB-2369CCFD8407} = {4432AF92-3A99-43CD-B30A-FA69E55396E2}
+		{5061DF5E-D1E7-40A3-B78B-8AE7E08E5A73} = {4432AF92-3A99-43CD-B30A-FA69E55396E2}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD30ECC9-7D0F-4898-B5EB-2369CCFD8407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD30ECC9-7D0F-4898-B5EB-2369CCFD8407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD30ECC9-7D0F-4898-B5EB-2369CCFD8407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD30ECC9-7D0F-4898-B5EB-2369CCFD8407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5061DF5E-D1E7-40A3-B78B-8AE7E08E5A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5061DF5E-D1E7-40A3-B78B-8AE7E08E5A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5061DF5E-D1E7-40A3-B78B-8AE7E08E5A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5061DF5E-D1E7-40A3-B78B-8AE7E08E5A73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
